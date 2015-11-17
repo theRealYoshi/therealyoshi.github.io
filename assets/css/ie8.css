@@ -7,7 +7,8 @@
 /* Basic */
 
 	body {
-		background-image: url("images/pic04.jpg");
+		background-image: url("images/grey_wash_wall.png");
+		background-repeat: repeat;
 		background-size: cover;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 	}
